@@ -1,0 +1,1 @@
+This library is to interface AS5047 magnetic encoder with the rpi pico using SPI communication.
